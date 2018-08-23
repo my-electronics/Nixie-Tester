@@ -2,4 +2,4 @@
 
 This is the sample sketch for the Nixie Tester Shield for Arduino.
 
-For more information check out http://my-electronics.net
+Check out http://my-electronics.net for more information.
